@@ -39,9 +39,11 @@ The dataset has been released on Kaggle: https://www.kaggle.com/datasets/zhengku
 
 
 ## Pretrained models
-The pretrained model can be check on googledrive: .
-
-
+The pretrained model can be check on https://github.com/UGA-BSAIL/DT-MARS-CycleGAN/tree/main/weight. All the weights are YOLOv8n trained with diffrent synthesized data.
+    - best.pt: trained with images generated from DT/MARs-CycleGAN (ours).
+    - CYC.pt: trained with  images generated from original CycleGAN.
+    - RetinaGAN.pt: trained with images generated from RetinaGAN.    
+    - pure_sim.pt: trained with images generated from Publlet.
 
 ## References
 If you find this work or code useful, please cite:
