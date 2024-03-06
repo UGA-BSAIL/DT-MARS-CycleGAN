@@ -1,4 +1,4 @@
-# Pytorch-CycleGAN
+# Pytorch-DT-CycleGAN
 
 ## 1.Data
 
