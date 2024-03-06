@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<robot name="plant">
+  <link name="base_link">
+    <collision>
+      <geometry>
+        <mesh filename="package://simulation_world/STLs/cirsium_v1.stl" scale="0.005 0.005 0.005"/>
+      </geometry>
+    </collision>
+  </link>
+</robot>

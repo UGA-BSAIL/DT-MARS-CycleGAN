@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<robot name="plant">
+  <link name="base_link">
+    <collision>
+      <geometry>
+        <mesh filename="package://simulation_world/STLs/polygonum_v2.stl" scale="0.004 0.004 0.004"/>
+      </geometry>
+    </collision>
+  </link>
+</robot>
