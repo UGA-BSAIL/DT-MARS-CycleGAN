@@ -39,7 +39,7 @@ The dataset has been released on [Kaggle](https://www.kaggle.com/datasets/zhengk
 
 
 ## Pretrained models
-The pre-trained models are available at [weights](weights). All the weights are YOLOv8n trained with different synthesized data.  
+The pre-trained models are available at [weight](weight). All the weights are YOLOv8n trained with different synthesized data.  
     - best.pt: trained with images generated from DT/MARs-CycleGAN (ours).  
     - CYC.pt: trained with  images generated from original CycleGAN.  
     - RetinaGAN.pt: trained with images generated from RetinaGAN.  
