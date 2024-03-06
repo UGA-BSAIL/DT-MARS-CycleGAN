@@ -26,6 +26,7 @@ Fig. 1: Illustration of the physical/DT robots (left panel), the DT/MARS-CycleGA
 [YOLOv8](https://github.com/ultralytics/ultralytics) repository for crop detection: 
 ```
  pip install ultralytics
+ pip install pybullet torch accelerate timm
 ```
 
 
