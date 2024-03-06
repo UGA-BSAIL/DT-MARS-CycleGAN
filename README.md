@@ -30,7 +30,7 @@ Fig. 1: Illustration of the physical/DT robots (left panel), the DT/MARS-CycleGA
 
 
 ## Getting Started
-waiting for update...
+See [GANs](GAN/GAN)
 
 
 ## Dataset Download
