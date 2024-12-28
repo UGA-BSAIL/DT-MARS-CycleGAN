@@ -50,6 +50,14 @@ The pre-trained models are available at [weight](weight). All the weights are YO
 If you find this work or code useful, please cite:
 
 ```
+@article{liu2024digital,
+  title={Digital Twin/MARS-CycleGAN: Enhancing Sim-to-Real Crop/Row Detection for MARS Phenotyping Robot Using Synthetic Images},
+  author={Liu, David and Li, Zhengkun and Wu, Zihao and Li, Changying},
+  journal={Journal of Field Robotics},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+
 @article{liu2023dt,
   title={Dt/mars-cyclegan: Improved object detection for mars phenotyping robot},
   author={Liu, David and Li, Zhengkun and Wu, Zihao and Li, Changying},
